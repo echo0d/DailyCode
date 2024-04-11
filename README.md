@@ -1,0 +1,2 @@
+# DailyCode
+Code of DailyNotes
