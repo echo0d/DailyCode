@@ -1,4 +1,3 @@
-// Surface computes an SVG rendering of a 3-D surface function.
 package main
 
 import (
@@ -16,9 +15,6 @@ const (
 )
 
 var sin30, cos30 = math.Sin(angle), math.Cos(angle) // sin(30°), cos(30°)
-
-//go command:
-// go run surface.go > out.svg
 
 func main() {
 	fmt.Printf("<svg xmlns='http://www.w3.org/2000/svg' "+
