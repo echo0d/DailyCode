@@ -13,7 +13,7 @@ func main() {
 func rotate(s []int, rotateTimes int) []int {
 	var result []int
 	for i := 0; i < rotateTimes; i++ {
-		result = s[1:len(s)]
+		result = s[1:]
 		result = append(result, s[0])
 		s = result
 	}
