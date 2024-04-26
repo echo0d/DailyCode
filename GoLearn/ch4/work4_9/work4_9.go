@@ -6,9 +6,6 @@ import (
 	"os"
 )
 
-// run command:
-// go build -o ./pkg/chapter4/work4_9/work4_9 ./src/chapter4/work4_9/work4_9.go
-// less ./src/chapter4/work4_9/test | ./pkg/chapter4/work4_9/work4_9
 func main() {
 	counts := make(map[string]int) // a set of strings
 	input := bufio.NewScanner(os.Stdin)
