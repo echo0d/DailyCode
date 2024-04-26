@@ -10,8 +10,8 @@ import (
 )
 
 // run command:
-// go build -o ./pkg/chapter4/work4_8/work4_8 ./src/chapter4/work4_8/work4_8.go
-// less ./src/chapter4/work4_8/test | ./pkg/chapter4/work4_8/work4_8
+// less /test | go run .\work4_8.go
+
 func main() {
 	counts := make(map[string]int)
 	invalid := 0 // count of invalid UTF-8 characters
