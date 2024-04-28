@@ -1,21 +1,22 @@
 package main
 
+import "fmt"
+
 type tree struct {
 	value       int
 	left, right *tree
 }
 
 // Sort sorts values in place.
-func Sort(values []int) {
+func Sort(values []int) []int {
 	var root *tree
 	for _, v := range values {
 		root = add(root, v)
 	}
-	appendValues(values[:0], root)
+	return appendValues(values[:0], root)
 }
 
-// appendValues appends the elements of t to values in order
-// and returns the resulting slice.
+// appendValues appends the elements of t to values in order and returns the resulting slice.
 func appendValues(values []int, t *tree) []int {
 	if t != nil {
 		values = appendValues(values, t.left)
@@ -41,5 +42,7 @@ func add(t *tree, value int) *tree {
 }
 
 func main() {
-
+	values := []int{5, 3, 6, 2, 4}
+	fmt.Printf("before: %v\n", values)
+	fmt.Printf("after: %v\n", Sort(values))
 }
