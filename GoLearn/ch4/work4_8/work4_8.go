@@ -9,8 +9,6 @@ import (
 	"unicode"
 )
 
-// run command:
-// less /test | go run .\work4_8.go
 
 func main() {
 	counts := make(map[string]int)
