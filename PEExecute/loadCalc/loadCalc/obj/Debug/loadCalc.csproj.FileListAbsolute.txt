@@ -4,3 +4,9 @@ C:\Users\echo0d\Desktop\loadCalc\loadCalc\obj\Debug\loadCalc.csproj.AssemblyRefe
 C:\Users\echo0d\Desktop\loadCalc\loadCalc\obj\Debug\loadCalc.csproj.CoreCompileInputs.cache
 C:\Users\echo0d\Desktop\loadCalc\loadCalc\obj\Debug\loadCalc.exe
 C:\Users\echo0d\Desktop\loadCalc\loadCalc\obj\Debug\loadCalc.pdb
+C:\Users\echo0d\Desktop\DailyCode\PEExecute\loadCalc\loadCalc\bin\Debug\loadCalc.exe
+C:\Users\echo0d\Desktop\DailyCode\PEExecute\loadCalc\loadCalc\bin\Debug\loadCalc.pdb
+C:\Users\echo0d\Desktop\DailyCode\PEExecute\loadCalc\loadCalc\obj\Debug\loadCalc.csproj.AssemblyReference.cache
+C:\Users\echo0d\Desktop\DailyCode\PEExecute\loadCalc\loadCalc\obj\Debug\loadCalc.csproj.CoreCompileInputs.cache
+C:\Users\echo0d\Desktop\DailyCode\PEExecute\loadCalc\loadCalc\obj\Debug\loadCalc.exe
+C:\Users\echo0d\Desktop\DailyCode\PEExecute\loadCalc\loadCalc\obj\Debug\loadCalc.pdb
