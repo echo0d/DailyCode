@@ -1,0 +1,6 @@
+C:\Users\echo0d\Desktop\CsharpExecutor\CsharpExecutor\bin\Debug\CsharpExecutor.exe
+C:\Users\echo0d\Desktop\CsharpExecutor\CsharpExecutor\bin\Debug\CsharpExecutor.pdb
+C:\Users\echo0d\Desktop\CsharpExecutor\CsharpExecutor\obj\Debug\CsharpExecutor.csproj.AssemblyReference.cache
+C:\Users\echo0d\Desktop\CsharpExecutor\CsharpExecutor\obj\Debug\CsharpExecutor.csproj.CoreCompileInputs.cache
+C:\Users\echo0d\Desktop\CsharpExecutor\CsharpExecutor\obj\Debug\CsharpExecutor.exe
+C:\Users\echo0d\Desktop\CsharpExecutor\CsharpExecutor\obj\Debug\CsharpExecutor.pdb
