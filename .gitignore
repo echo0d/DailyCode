@@ -3,3 +3,4 @@
 **/node_modules
 **/.smarttomcat
 **/*.class
+**/.vs
