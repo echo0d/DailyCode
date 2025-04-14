@@ -1,6 +1,8 @@
 #pragma once
+#include <cmath> // for sqrt and pow
 class Point
 {
+
 
 private:
 	double x;
