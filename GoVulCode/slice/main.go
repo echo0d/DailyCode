@@ -8,10 +8,10 @@ func main() {
 	a = append(a, 2)
 	a = append(a, 3)
 	b := append(a, 4)
-	c := append(a, 5)
+	// c := append(a, 5)
 
 	fmt.Println(a)
 	fmt.Println(b)
-	fmt.Println(c)
+	// fmt.Println(c)
 
 }
