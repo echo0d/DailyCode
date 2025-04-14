@@ -1,3 +1,0 @@
-﻿  Circle.cpp
-D:\myGit\DailyCode\Cpp\Circle\Circle\Circle.cpp(33,26): warning C4305: “初始化”: 从“double”到“float”截断
-  Circle.vcxproj -> D:\myGit\DailyCode\Cpp\Circle\x64\Debug\Circle.exe
